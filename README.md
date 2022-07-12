@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### About me: “Since 19 years ago I`m Civil engineer, and now merging like Data Analyst” I`m recently achieving my certification like data Analyst with Google, I´m ready to learn and reach my goal about make my carrer change.
+### About me: Since 19 years ago I`m Civil engineer, and now merging like Data Analyst I`m recently achieving my certification like data Analyst with Google, ready to learn and reach my goal about make my carrer change.
 
 - 🔭 I’m currently working like freelance
 - 🌱 I’m currently learning SQL, R, Phyton
